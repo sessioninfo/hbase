@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+<span >
+	<style type="text/css"> 
+	a{color:#00FF00;}
+	a:link {   
+	color: #000000;/*连接默认的颜色变化*/
+	text-decoration: none;   
+	}   
+	a:visited {   
+	color: #000000;/*连接访问的颜色变化*/
+	text-decoration: none;   
+	}   
+	a:hover {   
+	color: #FF0000;/*鼠标经过的颜色变化*/   
+	text-decoration: underline;   
+	}
+	a:active { 
+	 color: #FF0000;/*鼠标按下的颜色变化*/
+	}
+	</style>
+</span>
+

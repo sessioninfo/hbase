@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebRoot/view=UTF-8
+encoding//WebRoot/view/common/footer.ftl=UTF-8
+encoding//WebRoot/view/create.ftl=UTF-8
+encoding//WebRoot/view/jsp/queryAll.jsp=UTF-8
+encoding//WebRoot/view/jsp/queryAllByRowkeyS.jsp=UTF-8
+encoding//WebRoot/view/select.ftl=UTF-8
+encoding//src/com/Entity/Medicine.java=UTF-8
+encoding//src/com/java/OperateTable.java=UTF-8
+encoding//src/com/servlet/BaseServlet.java=UTF-8
+encoding/<project>=UTF-8
+encoding/WebRoot=UTF-8
